@@ -5,7 +5,7 @@ some python scripts to plot measure values
 
 (for example1)
 
-start the script with: `ptyhon evaluate1.py`
+start the script with: `pyhon evaluate1.py`
 
 and the follwing image (in PDF format) would be generated.
 
@@ -16,7 +16,7 @@ and the follwing image (in PDF format) would be generated.
 
 (similar for example2)
 
-start the script with: `ptyhon evaluate2.py`
+start the script with: `pyhon evaluate2.py`
 
 and the follwing image (in PDF format) would be generated.
 
