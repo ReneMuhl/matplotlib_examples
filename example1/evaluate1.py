@@ -36,5 +36,6 @@ for outputFileName, fileNames in inputFiles.items():
     leg = ax1.legend(loc='upper left')
     #leg = ax1.legend(loc='lower right')
     # ax1.set_yscale('log')
+    #fig.savefig(outputFileName + '.png', format='png')
     fig.savefig(outputFileName + '.pdf', format='pdf')
 # plt.show()
